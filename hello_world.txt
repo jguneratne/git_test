@@ -1,4 +1,6 @@
 
 Hello Odin!
 
-Practice using GIT in VS Code
+Practice using GIT in VS Code.
+
+Practice $git commit without -m
