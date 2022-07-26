@@ -1,4 +1,4 @@
 
 Hello Odin!
 
-Practice staging files.
+Practice using GIT in VS Code
